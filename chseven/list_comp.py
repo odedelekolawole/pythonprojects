@@ -44,7 +44,7 @@ print(doubled)
 doubled = [num ** 2 for num in nums]
 print(doubled)
 
-marks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+marks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20]
 
 even_marks = []
 
